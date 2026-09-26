@@ -1,6 +1,6 @@
 # Exploratory Data Analysis w/ SQL: Job Market Analytics 
 
-![image](images\1_1_Project1_EDA.png)
+![image](images/1_1_Project1_EDA.png)
 A SQL project analyzing the data engineer job market using real world job posting data. It demonstrates my ability **to write production-quality analytical SQL, design efficient queries, and turn business questions into data-driven insights.**
 
 
@@ -13,7 +13,7 @@ Job market analysts need to answer questions like:
 - **Best trade-off**: What is the optimal skill set balancing demand and compensation?
 
 This project analyzes a data warehouse built using a star schema design. The warehouse structure consists of:
-![image](images\1_2_Data_Warehouse.png)
+![image](images/1_2_Data_Warehouse.png)
 
 # Tech Stack
 - **Query Engine**: DuckDB for fast OLAP-style analytical queries
